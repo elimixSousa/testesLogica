@@ -9,6 +9,6 @@
 - ** Ao fazer isso, irá abrir a janela de Ferramentas do Desenvolvedor (DevTools) do navegador.*
 - ** Nessa janela (DevTools) selecione a opção: console.*
 - ** Volte ao seu VS Code e agora abra o arquivo script.js, que é onde os testes de lógica estarão.*
-- ** Selecione um dos blocos de código de um dos desafios e pressione as teclas Ctrl + ; para "descomentar" os códigos.*
-- ** Selecione a opção salvar (Ctrl + s) no VS Code e verifique no console do navegador o resultado dos testes.*
+- ** Selecione um dos blocos de código de um dos testes de lógica e pressione as teclas (Ctrl + ;) para "descomentar" o código.*
+- ** Selecione a opção salvar (Ctrl + s) no VS Code e verifique no console do navegador o resultado.*
 
